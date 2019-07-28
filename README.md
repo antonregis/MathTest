@@ -1,5 +1,5 @@
 # Math Test
-This code uses TestNG to test a basic Math operation web page (https://antonregis.com/node/36).
+This code uses TestNG to test a basic Math operation web page (https://antonregis.com/node/35).
   
 An .xml file is used to run two separate java classes and generates a test report at the end of the test.
 
